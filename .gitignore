@@ -1,0 +1,5 @@
+*~
+/dist/
+/build/
+/work/
+/*.egg-info/
